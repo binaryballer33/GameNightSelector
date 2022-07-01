@@ -1,0 +1,15 @@
+package com.gamenight;
+
+public enum GameType {
+    WORKER_PLACEMENT,
+    RESOURCE_CONTROL,
+    DECK_BUILDER,
+    AREA_CONTROL,
+    COOPERATIVE,
+    ASYMMETRICAL,
+    HIDDEN_ROLES,
+    PATTERN_BUILDING,
+    DEDUCTION,
+    DICE_ROLLING
+
+}
